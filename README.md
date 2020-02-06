@@ -1,0 +1,5 @@
+name: "mypackage"
+version:	"version 1.0"
+license	name: "MIT"
+description: "installation of mypackage"
+install_requires:	"package managers will install these automatically as needed"
